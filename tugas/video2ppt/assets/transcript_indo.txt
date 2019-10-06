@@ -1,0 +1,16 @@
+Pada video ini, kita akan membahas mengenai dukungan yang disediakan oleh AWS.
+
+AWS berusaha menyediakan resource untuk menunjang kesuksesan anda. Jadi untuk anda yang baru memulai atau sedang beradaptasi dengan layanan AWS, kami akan berusaha membantu anda melakukan hal yang luar biasa dengan AWS.
+
+AWS support merupakan kombinasi unik antara tools dengan bidang keahlian berdasarkan rencana bisnis anda saat ini maupun masa yang akan datang. Pada video ini, kita akan membahas AWS Support dan AWS Support Plans.
+
+Dukungan AWS menyediakan dukungan penuh serta resource yang tepat untuk menunjang kesuksesan anda.
+
+Kami sebisa mungkin memberikan dukungan pada seluruh customer kami. Termasuk di dalamnya orang yang ingin berekseprimen dengan AWS, orang yang ingin melakukan produksi dengan AWS, dan juga orang yang menggunakan AWS sebagai resource utama dalam bisnisnya. AWS memberikan berbagai macam dukungan sesuai dengan kebutuhan dan tujuan dari customer.
+
+Dengan AWS anda bisa melakukan planning, deploying, dan optimizing dengan percaya diri. Saat anda memerlukan bantuan, kami memiliki tools dan pemandu yang siap membantu anda. 
+Bagi anda yang lebih menyukai pemandu proaktif, kami memiliki technical account manager (TAM). Anggota TAM akan memberikan panduan, penjelasan arsitektur, dan komunikasi yang berkelanjutan sehingga anda akan selalu diinformasikan dan dibimbing dalam melakukan planning, deploying, dan optimizing. TAM sama seperti seorang pengacara yang mewakili suara anda di AWS. Kemudian bagi anda yang ingin memastikan apakah sudah mengikuti best-practice dalam meningkatkan performance dan fault-tolerance dari lingkungan AWS, kami memiliki AWS Trusted Advisor. AWS Trusted Advisor adalah online resource yang mencarikan peluang bagi anda untuk menekan pengeluaran bulanan dan meningkatkan produktifitas. Selain itu jika anda memerlukan bantuan terkait akuntansi, AWS Support Concierge adalah sistem tagihan dan akuntan yang handal yang akan menyajikan analisis akuntansi anda secara cepat dan efisien. AWS Support Concierge juga menjawab semua pertanyaan anda tentang tagihan dan akuntansi pada tingkat non-teknis.
+
+Mari kita lihat pada pilihan support plans yang disediakan AWS. AWS ingin mendukung anda agar percaya diri dalam melakukan planning, deploying, dan optimizing. AWS menyediakan beberapa paket dukungan, diantaranya adalah basic support plan, developer support plan, business support plan, dan enterprise support plan. Penjelasan lebih detail dapat anda lihat di website AWS. Di sana anda dapat membandingkan setiap paket dukungan untuk menentukan mana yang sesuai dengan kebutuhan bisnis anda.
+
+Baiklah, kita telah sampai pada akhir pembahasan. Pada video ini, kita telah mendiskusikan AWS support beserta beberapa pilihan support plan. Support plan yang telah kita pelajari adalah basic support plan, developer support plan, business support plan, dan enterprise support plan.

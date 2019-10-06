@@ -1,0 +1,21 @@
+In this video, we will be going over AWS support, and what support plans are available for you.
+
+AWS wants to provide the right resources to support your success. So whether you are new or continuing to adapt our services and applications as your business solutions, we wanna help you do amazing things with AWS.
+
+AWS support is there to provide you a unique combination of tools and expertise based on your current or future plan cases. This video will breakdown AWS Support and AWS Support Plans.
+
+AWS support has been develop to provide complete support. As well as the right resources to aid your success. 
+
+We wanna support all of our customer. Including those who may just be experimenting with AWS, who are looking for production use case of AWS, and also a customers who use AWS as a business critical resource. AWS support can vary the type of support provided depending on the customer needs and goals that they have inside.
+
+With AWS you can plan, deploy, and optimize with confidence. If you need support, we have the tools and resources to guide you. If there is a use who it like proactive guidance, we have a technical account manager or TAM, that is designated as that users primary point of contact. The TAM can provide guidance, architectural review, and continous on going communication, to keep that user informed and prepared as they plan, deploy, and optimize their solution. Your TAM is your advocate and your dedicated voice within AWS. For users who want to ensure they follow the best practices to increase performance and fault-tolerance the AWS environment, we have AWS Trusted Advisor. AWS Trusted Advisor is like a customized cloud experts, but actually it's an online resource that check for opportunities for you to reduce monthly expenditures and increase productivity. Next if there is ever a need for account assistance, the support concierge is a billing and account expert, who will provide quick and efficient analysis on your issue. Freeing up your time to run your business. The concierge addresses all non-technical billing and account level enquiries. 
+
+So let's look at support plan options. At AWS we want you to be able to plan, deploy, and optimize with confidence and support. So to support you we have develop specific plan to assist. We have the basic support, developer support plan, the business support plan, and the enterprise support plan. If you navigate to AWS homepage and click support, that will take you to AWS support page. There you can navigate and compare each of plans. If you like look any plan in detail, just click on them in the navigation pane.
+
+Alright, so we've reach the end. In this video we've discussed AWS support and the different plan options created to fit your unique needs. The plans we're visted today were the basic support plan, developer support plan, business support plan, and the enterprise support plan.
+
+
+
+
+
+
