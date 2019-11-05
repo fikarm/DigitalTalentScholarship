@@ -1,0 +1,31 @@
+File yang dikumpulkan dari FP:
+> Folder kode program Web App --> blh di zip
+> Folder kode program Mobile App --> blh di zip
+> File *.bashrc simpan dalam file *.txt, misal menjadi "bashrc.txt"
+> File screenshot Dashboard EC2 Anda
+> File Dokumentasi FP dalam *.docx/*.doc + hasil cek plagiasi
+> File video Presentasi FP
+
+
+Mengisi Kuisioner dari Tim Pengajar untuk masukan FGA Big Data ke depannya
+dari link "http://bit.ly/32exoHi"
+
+Note: 
+Pengumpulan terakhir hari jum'at, tgl 8 November 2019 (Jam 13.00 sampai jam 16.00) by FDD atau HDD ke ruangan saya di A1.10.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------
+> Backup EC2, terutama folder Anda ke s3, lalu simpan ke google drive (optional)

@@ -1,0 +1,44 @@
+Tim Pengampu dan Asisten:
+Oleh: Imam Cholissodin | imamcs@ub.ac.id, Putra Pandu Adikara, Sufia Adha Putri
+      Asisten: Guedho, Sukma, Anshori, Aang dan Gusti
+	  serta All of My Teams. :D
+
+Fakultas Ilmu Komputer (Filkom), Universitas Brawijaya (UB)
+Untuk Kelas A Digital Talent Big Data Analytics AWS-Kominfo 2019 Batch ke-2
+Pada Tanggal 19 September 2019 sampai 5 November 2019 di Gedung F4.3 & F4.6 Filkom UB
+
+1. Pembentukan Kelompok (min. 2 org, maks. 3 org)
+2. Pengajuan FP:
+   2.1. Web App (Django)
+		>> Setup RESTful API pada Web App (Django) untuk komunikasi dgn Hadoop & Spark EC2
+        >> Masukkan minimal 1 latihan (dalam 1 minggu), masukkan ke Week-1 .. Week 6 => (Optional)
+		>> Isikan pada Week 7-1 dgn menjalankan koding NBMapReduce
+           Buat halaman Web App yg berisi minimal 3 text field yang, misal 
+		   Fitur ke-1: "Urgent"
+		   Fitur ke-2: "No"
+		   Fitur ke-3: "No"
+		   
+		   Lalu di passing melalui call API ke hadoop atau dgn "spark streaming" di EC2 Anda
+		   sehingga menghasilkan output dalam 1 text field, sebagai hasil kelas keputusannya.	
+		>> Isikan pada Week 7-2 dgn Final Project Anda
+           Ubah data pada contoh koding ELM pada Project 2, sesuai dgn usulan topik FP kelompok Anda
+		   Lalu di passing melalui call API ke hadoop atau dgn "spark streaming" di EC2 Anda
+		   sehingga menghasilkan output prediksi dalam tabel, disertai pembandingan grafik nilai aktual dan hasil prediksi
+		>> Isikan pada Week 8 dgn Kelompok Anda membuat Usulan Profile Perusahaan (Start Up yg Go Internasional) 
+
+   2.2. Mobile App (gunakan salah satu => Ionic/Flutter/Vue/React/Native Android), berikut link contoh native dgn Kotlin: "http://bit.ly/2WjqWNQ"
+        >> Konfigurasi "Mobile App" sehingga dapat komunikasi ke RESTful API pada Web App Django diatas
+		>> Buat mobile App yg berisi minimal 3 text field atau file yang, misal berisi
+		   Fitur ke-1: "Urgent"
+		   Fitur ke-2: "No"
+		   Fitur ke-3: "No"
+		   
+		   Lalu di passing melalui call API ke hadoop/spark di EC2 Anda
+		   sehingga menghasilkan output dalam 1 text field, sebagai hasil kelas keputusannya.
+   2.3 Dokumentasi Web App dan Mobile App dalam bentuk *.doc/docx 
+       (dgn format bebas, rapi, minimal 5 halaman, masukkan penjelasan secukupnya dan disertai screenshoot) 
+	   & Video Presentasi (link contoh video FP Batch 1: http://bit.ly/2lUtP9L )
+	   
+	   
+	   
+	   
