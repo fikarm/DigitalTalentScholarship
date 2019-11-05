@@ -1,0 +1,1 @@
+E:\PyWebProject\Flask_n_DjangoPy\tryRESTfulDjango\obj\Debug\tryRESTfulDjango.pyproj.CoreCompileInputs.cache

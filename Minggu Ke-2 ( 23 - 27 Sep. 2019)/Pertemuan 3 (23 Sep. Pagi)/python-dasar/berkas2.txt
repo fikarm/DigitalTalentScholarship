@@ -1,0 +1,5 @@
+Bill Gates2	M	32	C++
+Guido van Rossum2	M	26	Python
+Linus Torvalds2	M	72	Scala
+Marissa Ann Mayer2	F	25	Python
+Ginni Rometty2	F	24	C++

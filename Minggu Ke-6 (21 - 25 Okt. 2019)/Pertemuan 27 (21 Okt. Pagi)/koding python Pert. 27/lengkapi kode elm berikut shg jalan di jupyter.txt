@@ -1,0 +1,58 @@
+# Init Python alg. Extreme Learning Machine (ELM)
+#by:
+#1. Imam Cholissodin (imamcs@ub.ac.id)
+#2. Galih Ariwanda (galihariwanda01@gmail.com)
+#3. Django Developer
+#4. Apache Hadoop, Spark, etc
+#5. All of My Teams
+
+# a. Perbaiki koding berikut sehingga jalan di jupyter notebook anda. :D
+
+import pandas as pd
+import numpy as np
+dataset = request.FILES['inputDataset']#'dataset_dump.csv'
+persentase_data_training = 90
+banyak_fitur = int(request.POST['banyakFitur'])
+banyak_hidden_neuron = int(request.POST['banyakHiddenNeuron'])
+
+dataset = pd.read_csv(dataset, delimiter=';', names = ['Tanggal', 'Harga'], usecols=['Harga'])
+minimum = int(dataset.min()-10000)
+maksimum = int(dataset.max()+10000)
+new_banyak_fitur = banyak_fitur + 1
+hasil_fitur = []
+for i in range((len(dataset)-new_banyak_fitur)+1):
+	kolom = []
+	j = i
+	while j < (i+new_banyak_fitur):
+		kolom.append(dataset.values[j][0])
+		j += 1
+	hasil_fitur.append(kolom)
+hasil_fitur = np.array(hasil_fitur)
+data_normalisasi = (hasil_fitur - minimum)/(maksimum - minimum)
+
+data_training = data_normalisasi[:int(persentase_data_training*len(data_normalisasi)/100)]
+data_testing = data_normalisasi[int(persentase_data_training*len(data_normalisasi)/100):]
+
+#Training ELM
+bobot = np.random.rand(banyak_hidden_neuron, banyak_fitur)
+bias = np.random.rand(banyak_hidden_neuron)
+h = 1/(1 + np.exp(-(np.dot(data_training[:, :banyak_fitur], np.transpose(bobot)) + bias)))
+h_plus = np.dot(np.linalg.inv(np.dot(np.transpose(h),h)),np.transpose(h))
+output_weight = np.dot(h_plus, data_training[:, banyak_fitur])
+
+#Testing ELM
+h = 1/(1 + np.exp(-(np.dot(data_testing[:, :banyak_fitur], np.transpose(bobot)) + bias)))
+predict = np.dot(h, output_weight)
+predict = predict * (maksimum - minimum) + minimum
+
+#MAPE
+aktual = np.array(hasil_fitur[int(persentase_data_training*len(data_normalisasi)/100):, banyak_fitur])
+mape = np.sum(np.abs(((aktual - predict)/aktual)*100))/len(predict)
+
+#return render(request, 'week1.html', {
+#'y_aktual' : list(aktual),
+#'y_prediksi' : list(predict),
+#'mape' : mape
+
+
+# b. Lalu ploting grafik y_aktual dan y_prediksi dalam satu grafik
